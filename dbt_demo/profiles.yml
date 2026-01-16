@@ -5,7 +5,6 @@ dbt_demo:
       host:  ""
       http_path: ""
       schema: bronze
-      threads: 1
-      token: ""
+      threads: 1 
       type: databricks
   target: dev
